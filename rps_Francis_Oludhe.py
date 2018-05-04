@@ -1,5 +1,5 @@
 # Name: Francis Oludhe
-# Homework on coding Rock, Paper, Scissors
+# Coding Rock, Paper, Scissors
 
 print "Welcome to a game of Rock, Paper, Scissors\nMake your choice?\n"
 
